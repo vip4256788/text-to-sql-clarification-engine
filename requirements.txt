@@ -1,0 +1,33 @@
+   pydantic
+   pydantic-settings
+   psycopg2[binary,pool]
+   sqlglot
+   openai
+   google-generativeai
+   groq
+   streamlit
+   python-dotenv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
